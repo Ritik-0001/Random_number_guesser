@@ -1,10 +1,10 @@
-## Speak Number Guessing Game
+# Speak Number Guessing Game
 
-Number guessing game where you speak your guess into the microphone using the speech recognition API
+A fun number guessing game that allows players to speak their guesses through the microphone using the Speech Recognition API.
 
-## Project Specifications
+## Project Features
 
-- Display UI directing user to speak guess
-- Implement speech recognition to listen to mic
-- Process user's guess and match
-- Let user know higher, lower, match or not a number
+- User-friendly interface prompting the player to speak their guess.
+- Integrates speech recognition to capture input from the microphone.
+- Processes and evaluates the player's spoken guess.
+- Provides feedback if the guess is too high, too low, correct, or invalid.
